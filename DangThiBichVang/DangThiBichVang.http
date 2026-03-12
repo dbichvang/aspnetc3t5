@@ -1,0 +1,6 @@
+@DangThiBichVang_HostAddress = http://localhost:5094
+
+GET {{DangThiBichVang_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
